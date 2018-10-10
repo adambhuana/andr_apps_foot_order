@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pesan Makanan dan Minuman</string>
+    <string name="judulpesan">Silahkan Pilih Makanan/Minuman dari Daftar Menu berikut:</string>
+    <string name="menu1">Nasi Putih</string>
+    <string name="menu2">Ayam Goreng</string>
+    <string name="menu3">Sayur Asem</string>
+    <string name="menu4">Air Mineral</string>
+    <string name="order">Pesanan Anda adalah:</string>
+</resources>
